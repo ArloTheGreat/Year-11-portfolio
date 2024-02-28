@@ -27,10 +27,12 @@ body {
     color: white;
   }
 
-  p{
-    font-size: larger;
-  }
-
-  P2{
+  h1{
     font-size: large;
   }
+
+  P{
+    font-size: medium;
+  }
+
+  
