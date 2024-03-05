@@ -31,8 +31,12 @@ body {
     font-size: 100px;
   }
   h2{
-    font-size: 69px;
+    font-size: 40px;
   }
   p{
+    font-size: 23px;
+  }
+
+  ul{
     font-size: 23px;
   }
