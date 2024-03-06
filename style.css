@@ -47,37 +47,8 @@ body {
     font-size: 23;
     font-weight: 700;
   }
-  .eggs{
-    width: 33.33%;
-    float: left;
-    text-align: center;
-  }
-  .sandwich{
-    width: 33.33%;
-    overflow: auto;
-    text-align: center;
-  }
-  .bacon{
-    width: 33.33%;
-    Float: right;
-    text-align: center;
-  }
+
   
-  .div1{
-    width: 33.33%;
-    float: left;
-    text-align: center;
-  }
-  .div2{
-    width: 33.33%;
-    overflow: auto;
-    text-align: center;
-  }
-  .div3{
-    width: 33.33%;
-    Float: right;
-    text-align: center;
-  }
   table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
