@@ -54,7 +54,7 @@ body {
   }
   .sandwich{
     width: 33%;
-    margin: 0 auto;
+    overflow: auto;
     text-align: center;
   }
   .bacon{
