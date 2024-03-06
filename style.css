@@ -50,12 +50,15 @@ body {
   .eggs{
     width: 33%;
     float: left;
+    text-align: center;
   }
   .sandwich{
     width: 33%;
     margin: 0 auto;
+    text-align: center;
   }
   .bacon{
     width: 33%;
     Float: right;
+    text-align: center;
   }
