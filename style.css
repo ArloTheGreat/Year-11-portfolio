@@ -47,3 +47,14 @@ body {
     font-size: 23;
     font-weight: 700;
   }
+  .eggs{
+    width: 33%;
+    float: left;
+  }
+  .sandwich{
+    width: 33%;
+    margin: 0 auto;
+  }
+  .bacon{
+    width: 33%;
+  }
