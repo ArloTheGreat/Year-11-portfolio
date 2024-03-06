@@ -48,17 +48,17 @@ body {
     font-weight: 700;
   }
   .eggs{
-    width: 33%;
+    width: 33.33%;
     float: left;
     text-align: center;
   }
   .sandwich{
-    width: 33%;
+    width: 33.33%;
     overflow: auto;
     text-align: center;
   }
   .bacon{
-    width: 33%;
+    width: 33.33%;
     Float: right;
     text-align: center;
   }
