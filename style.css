@@ -48,7 +48,7 @@ body {
     font-weight: 700;
   }
 
-  
+
   table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -63,4 +63,7 @@ body {
   
   tr:nth-child(even) {
     background-color: #dddddd;
+  }
+  th{
+    font-size: 40px;
   }
